@@ -1,6 +1,6 @@
 # Portfolios
 
-In this Project, The design of our portfolio makes feel to read magazines. Here we attach screenshots for your reference...
+In this Project, The design of our portfolio makes feel to read magazines. For your reference, we attached export files and screenshots from this project.
 
 
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/121385345/209474072-0a759abc-2901-4a24-a77f-9fd2c29249be.png">
